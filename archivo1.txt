@@ -1,0 +1,11 @@
+No:,NC:,Nombre:,Calificacion:
+1,14401037,Vicente,10
+2,14401037,Vicente,20
+3,14401037,Vicente,30
+4,14401037,Vicente,40
+5,14401037,Vicente,50
+6,14401037,Vicente,60
+7,14401037,Vicente,70
+8,14401037,Vicente,80
+9,14401037,Vicente,90
+10,14401037,Vicente,100
